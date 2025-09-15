@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on ...Python.
-- 🌱 I’m currently learning ...Python.
-- 👯 I’m looking to collaborate on ...Python.
+- 🔭 I’m currently working on ....
+- 🌱 I’m currently learning ....
+- 👯 I’m looking to collaborate on ....
 - 🤔 I’m looking for help with ...Page web.
 - 💬 Ask me about ...Python.
 - 📫 How to reach me: ...leojohnsnoob30.
